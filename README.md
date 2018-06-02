@@ -48,3 +48,19 @@
 - Анализ данных 
 - Компьютерная графика 
 - Теории счисления
+
+
+Рекоммендуемая литература:
+Программирование, железо, память, кодировка - The Art of Computer Programming, 2 том, Data Compression: The Complete Reference, Salomon D.
+
+Комп архитектура - Essentials of Computer Architecture, Comer D., Structured Computer Organization, 5th edition, Tanenbaum. 
+
+Операционные системы - Modern Operating Systems, Tanenbaum., Modern Operating Systems, Second edition.
+
+Алгоритмы - Corman, Algorithms. Algorithms 4th edition, Sedgevick.
+
+Языки программирования - смотри видео по технической литературе для программистов
+
+Разработка программного обеспечения - Software Design: From Programming to Architecture, Braude., Introduction to Software Engineering Design: Processes, Principles and Patterns with UML2, Fox., Software Engineering, 8th ed, Sommerville.
+
+Абстракция данных, стркутуры данных - Книги по алгоритмам.
