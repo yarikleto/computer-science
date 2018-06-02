@@ -64,3 +64,31 @@
 Разработка программного обеспечения - Software Design: From Programming to Architecture, Braude., Introduction to Software Engineering Design: Processes, Principles and Patterns with UML2, Fox., Software Engineering, 8th ed, Sommerville.
 
 Абстракция данных, стркутуры данных - Книги по алгоритмам.
+
+---
+
+- Knuth. The art of computer programming.
+- The C programming language.
+- C programming absolute beginner's guide.
+- The C++ programming language.
+- Effective Modern C++.
+- Modern C++ design.
+- C++ Coding standarts.
+- JavaScript the Definitive guide. 6th edition.
+- HTML / CSS design and build websites.
+- Programming: Principles and practice using C++.
+- Java the complete reference 9th edition.
+- Python Cookbook. 3th edition.
+- The Ruby programming language.
+- Java core. Volume 1.
+- Algorithms. Sedgewick.
+- Algorithms . Corman.
+- Aassembly step by step programming with Linux.
+- Linux command line. Complete introduction.
+- Modern operating systems.
+- Computer networks.
+- Structured Computer Organization.
+- Code Complete.
+- English grammar in Use.
+- Hacking.The art of exploitation.
+- Hacking. How to hack computers and basic penetration testing.
