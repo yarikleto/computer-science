@@ -92,3 +92,13 @@
 - English grammar in Use.
 - Hacking.The art of exploitation.
 - Hacking. How to hack computers and basic penetration testing.
+
+# Links:
+- http://btholt.github.io/four-semesters-of-cs/
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/ossu/computer-science
+- https://github.com/papers-we-love/papers-we-love
+- https://github.com/prakhar1989/awesome-courses
+- https://github.com/Developer-Y/cs-video-courses
+- https://github.com/vicky002/AlgoWiki
+- https://github.com/dreamarchitectspc/Computer-Science
