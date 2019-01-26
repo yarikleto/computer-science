@@ -101,4 +101,5 @@
 - https://github.com/prakhar1989/awesome-courses
 - https://github.com/Developer-Y/cs-video-courses
 - https://github.com/vicky002/AlgoWiki
+- https://github.com/trekhleb/javascript-algorithms
 - https://github.com/dreamarchitectspc/Computer-Science
