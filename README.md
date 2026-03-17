@@ -2,70 +2,70 @@
 
 ## https://tproger.ru/curriculum/computer-science-step-by-step/
 
-- Основы (что такое компьютер, и как его можно программировать)
-- Архитектура ЭВМ(процессор, память, контроллеры и т.д.)
-- Что такое язык программирования(и как процессор понимает его) 
-- Что такое компилятор, интерпретатор 
-- Уровни языков программирования
-- Парадигмы языков программирования 
-- Базовые понятния языков программирования 
-- Ветвления 
-- Циклы 
-- Переменные 
-- Лямбда выражения
-- Рекурсия 
-- Системы счисления
-- Типы кодирования данных
-- Теория типов 
-- Базы данных
-- Виды баз данных
-- Как хранится информация в базах данных
-- Математика
-# Сети
-- Что такое интернет и как он работает
-- TCP/IP 
-- OSI 
-- Сокеты 
-- Модели протокола 
-- HTTP/HTTPS 
-- SSL/TLS 
-# Операционные системы
-- Что такое операционная система 
-- Как операционная система работает с компьютером 
-- Виды операционных систем 
-- Типовые утилиты 
-- API операционки 
-- shell операционки
-# Практически применимые знания
-- Программирование
-- Структуры данных и алгоритмы
-- Асимптотический анализ 
-- Паттерны проектирования 
-- WEB 
-- Мобильная разработка 
-- Системное программирование 
-- Разработка игр 
-# Дополнительно 
-- Нейронные сети 
-- Анализ данных 
-- Компьютерная графика 
-- Теории счисления
+- Fundamentals (what a computer is and how it can be programmed)
+- Computer Architecture (processor, memory, controllers, etc.)
+- What is a programming language (and how the processor understands it)
+- What is a compiler, interpreter
+- Levels of programming languages
+- Programming language paradigms
+- Basic concepts of programming languages
+- Branching
+- Loops
+- Variables
+- Lambda expressions
+- Recursion
+- Number systems
+- Data encoding types
+- Type theory
+- Databases
+- Types of databases
+- How information is stored in databases
+- Mathematics
+# Networks
+- What is the internet and how it works
+- TCP/IP
+- OSI
+- Sockets
+- Protocol models
+- HTTP/HTTPS
+- SSL/TLS
+# Operating Systems
+- What is an operating system
+- How an operating system interacts with a computer
+- Types of operating systems
+- Common utilities
+- OS API
+- OS shell
+# Practical Knowledge
+- Programming
+- Data structures and algorithms
+- Asymptotic analysis
+- Design patterns
+- WEB
+- Mobile development
+- Systems programming
+- Game development
+# Additional Topics
+- Neural networks
+- Data analysis
+- Computer graphics
+- Number theory
 
 
-Рекоммендуемая литература:
-Программирование, железо, память, кодировка - The Art of Computer Programming, 2 том, Data Compression: The Complete Reference, Salomon D.
+Recommended literature:
+Programming, hardware, memory, encoding - The Art of Computer Programming, Volume 2, Data Compression: The Complete Reference, Salomon D.
 
-Комп архитектура - Essentials of Computer Architecture, Comer D., Structured Computer Organization, 5th edition, Tanenbaum. 
+Computer architecture - Essentials of Computer Architecture, Comer D., Structured Computer Organization, 5th edition, Tanenbaum.
 
-Операционные системы - Modern Operating Systems, Tanenbaum., Modern Operating Systems, Second edition.
+Operating systems - Modern Operating Systems, Tanenbaum., Modern Operating Systems, Second edition.
 
-Алгоритмы - Corman, Algorithms. Algorithms 4th edition, Sedgevick.
+Algorithms - Corman, Algorithms. Algorithms 4th edition, Sedgevick.
 
-Языки программирования - смотри видео по технической литературе для программистов
+Programming languages - watch videos on technical literature for programmers
 
-Разработка программного обеспечения - Software Design: From Programming to Architecture, Braude., Introduction to Software Engineering Design: Processes, Principles and Patterns with UML2, Fox., Software Engineering, 8th ed, Sommerville.
+Software development - Software Design: From Programming to Architecture, Braude., Introduction to Software Engineering Design: Processes, Principles and Patterns with UML2, Fox., Software Engineering, 8th ed, Sommerville.
 
-Абстракция данных, стркутуры данных - Книги по алгоритмам.
+Data abstraction, data structures - Books on algorithms.
 
 ---
 
